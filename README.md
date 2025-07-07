@@ -42,7 +42,7 @@ I'm a **Full-Stack Web Developer** with 3+ years of hands-on experience, special
 - **E-Commerce Platform:**  
   A full-stack online store with product management, dynamic pricing (sizes & extras), Stripe/PayPal integration, and responsive design. Includes admin panel and analytics.
 
-- **Personal Blog CMS:**  
+- **Personal Blog:**  
   A clean, modern blog platform with category-based navigation, likes/dislikes, comment system, post views tracking, and full admin control.
 
 - **Task & Project Management System:**  
