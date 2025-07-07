@@ -1,6 +1,6 @@
 <!-- Animated Cyberpunk Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="100%" alt="Cyberpunk GIF Banner"/>
+  <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="100%" height="200" alt="Cyberpunk GIF Banner"/>
 </p>
 
 # 👨‍💻 About Me
