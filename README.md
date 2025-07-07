@@ -14,6 +14,7 @@ I'm a **Full-Stack Web Developer** with 3+ years of hands-on experience, special
 - TypeScript
 - Framer Motion
 - Material UI
+- Shadcn/ui
 
 **Backend:**  
 - Node.js
