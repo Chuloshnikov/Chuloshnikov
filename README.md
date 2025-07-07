@@ -1,72 +1,66 @@
+<!-- Animated Cyberpunk Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="100%" alt="Cyberpunk GIF Banner"/>
+</p>
+
 # 👨‍💻 About Me
 
-I'm a **Full-Stack Web Developer** with 3+ years of hands-on experience, specializing in modern web technologies. I build scalable and performant applications using Next.js, React, Node.js, and MongoDB, with a strong focus on user experience and clean code.
+I'm a **Full-Stack Web Developer** with 3+ years of experience building scalable, modern web apps using **React**, **Next.js**, **Node.js**, and **MongoDB**. I focus on clean code, fast UI, and great user experience.
 
 ---
 
-## 🚀 Top Skills & Technologies
+## 🚀 Tech Stack
 
-**Frontend:**  
-- Next.js 14 (App Router)
-- React
-- Redux Toolkit
-- Tailwind CSS
-- TypeScript
-- Framer Motion
-- Material UI
-- Shadcn/ui
+<div align="center">
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shadcn/UI-111827?style=for-the-badge"/>
 
-**Backend:**  
-- Node.js
-- Express
-- MongoDB (Mongoose)
-- Prisma/Postgres
-- REST API
-
-**Tools & Practices:**  
-- Git
-- ESLint & Prettier
-- Postman
-- Responsive Design
-- SSR/CSR
-
-**Other:**  
-- React Native
-- Stripe & PayPal integration
-- NextAuth
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  
+  <!-- Other -->
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NextAuth.js-0F172A?style=for-the-badge&logo=next.js&logoColor=white"/>
+</div>
 
 ---
 
-## 🌟 Favorite or Featured Projects
+## 🌟 Featured Projects
 
-- **E-Commerce Platform:**  
-  A full-stack online store with product management, dynamic pricing (sizes & extras), Stripe/PayPal integration, and responsive design. Includes admin panel and analytics.
-
-- **Personal Blog:**  
-  A clean, modern blog platform with category-based navigation, likes/dislikes, comment system, post views tracking, and full admin control.
-
-- **Task & Project Management System:**  
-  A collaborative platform for managing tasks and workflows—features include user assignments, status tracking, priority levels, and deadline reminders.
+- 🛒 **E-Commerce Platform:** Full-stack store with dynamic pricing, Stripe/PayPal checkout & admin dashboard  
+- 📝 **Personal Blog CMS:** Blog with categories, likes, comments, and post analytics  
+- ✅ **Task Manager:** Assignable tasks with deadlines, priorities, and status tracking
 
 ---
 
-## 🎮 Hobbies & Interests
+## 🎮 Hobbies
 
-When I'm not coding, I enjoy:
-- Exploring new technologies
-- Staying active through sports
-- Diving into immersive gaming experiences on my PlayStation
-
-I'm a big fan of **Red Dead Redemption 2** and **Souls-like games**—I love a good challenge that tests patience and precision.
+When not coding, I enjoy:  
+⚙️ Exploring new technologies  
+⚽ Playing sports  
+🎮 Gaming on PlayStation (RDR2, Souls-likes)
 
 ---
 
 ## 💡 Fun Facts
 
-- 🐶 I have a Labrador who secretly handles TypeScript typings while I sleep. If the code compiles without errors—it was him.
-- 🖥️ My freelance mode: one eye on VS Code, the other on coffee.
-- 🎮 After a long day, I sharpen my reflexes in Souls-like games and practice patience in Red Dead Redemption 2.
-- 🧘‍♂️ Sometimes I think I’ve found a bug... but turns out it’s just yoga for the brain.
-- 🕵️‍♂️ My favorite debugging method: suspect all code, even the one that never ran.
+- 🐶 My **Labrador** writes TypeScript typings for me while I sleep.  
+- 🖥️ Freelancing mode: one eye on VS Code, the other on coffee.  
+- 🧘 Sometimes I find a bug... but it turns out to be **yoga for the brain**.  
+- 🕵️ I suspect all code—even the one that hasn’t run yet.
 
 ---
