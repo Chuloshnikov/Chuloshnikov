@@ -53,7 +53,7 @@ I'm a **Full-Stack Web Developer** with 3+ years of hands-on experience, special
 
 When I'm not coding, I enjoy:
 - Exploring new technologies
-- Staying active through sports and yoga
+- Staying active through sports
 - Diving into immersive gaming experiences on my PlayStation
 
 I'm a big fan of **Red Dead Redemption 2** and **Souls-like games**—I love a good challenge that tests patience and precision.
