@@ -5,7 +5,7 @@
 
 # 👨‍💻 About Me
 
-I'm a **Full-Stack Web Developer** with 3+ years of experience building scalable, modern web apps using **React**, **Next.js**, **Node.js**, and **MongoDB**. I focus on clean code, fast UI, and great user experience.
+I'm a **Full-Stack Web Developer** with 4+ years of experience building scalable, modern web apps using **React**, **Next.js**, **Node.js**, and **MongoDB**. I focus on clean code, fast UI, and great user experience.
 
 ---
 
