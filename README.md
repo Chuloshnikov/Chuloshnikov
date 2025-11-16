@@ -32,8 +32,6 @@ I'm a **Full-Stack Web Developer** with 4+ years of experience building scalable
   
   <!-- Other -->
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
   <img src="https://img.shields.io/badge/NextAuth.js-0F172A?style=for-the-badge&logo=next.js&logoColor=white"/>
 </div>
 
@@ -41,9 +39,9 @@ I'm a **Full-Stack Web Developer** with 4+ years of experience building scalable
 
 ## 🌟 Featured Projects
 
-- 🛒 **E-Commerce Platform:** Full-stack store with dynamic pricing, Stripe/PayPal checkout & admin dashboard  
-- 📝 **Personal Blog CMS:** Blog with categories, likes, comments, and post analytics  
-- ✅ **Task Manager:** Assignable tasks with deadlines, priorities, and status tracking
+- 🛒 **Job portal a job search platform with a complex filter system, post points and service packages, as well as Stripe/PayPal checkout & admin dashboard  
+- 📝 **Personal Blog CMS:** Мaxter Blog with categories, likes, comments, and post analytics  
+- ✅ **Crustcraft: fastfood e-coomerce website with admin dashboard and stripe checkout 
 
 ---
 
